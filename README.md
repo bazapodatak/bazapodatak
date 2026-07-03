@@ -1,29 +1,31 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=🐚+kernel+%7C+full-stack+%7C+low-level+dev;🔥+baza.podatak;💻+from+Bosnia+with+❤️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=kernel+%7C+full-stack+%7C+low-level+dev;baza.podatak;from+Bosnia+with+passion" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 <br/>
 
 ---
 
-👋 Hey, I’m **@baza.podatak**
+## Hey, I'm @baza.podatak
 
-🔧 kernel development  
-🌐 full‑stack web engineer  
-📍 Bosnia & Herzegovina 🇧🇦  
-📦 « baza podataka » literally means database — kinda fitting  
+kernel development  
+full‑stack web engineering  
+database enthusiast  
+based in Bosnia and Herzegovina  
+
+> baza podataka literally means database — a perfect fit
 
 ---
 
-🛠️ everyday tools & languages
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -45,45 +47,58 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ---
 
-📊 some numbers
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bazapodatak&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bazapodatak&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bazapodatak&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazapodatak&layout=compact&theme=radical&hide_border=true" width="38%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=bazapodatak&theme=radical&no-frame=true&row=1&column=6" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazapodatak&layout=compact&theme=radical&hide_border=true&langs_count=8" width="38%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bazapodatak&theme=radical&no-frame=true&row=1&column=7" width="58%" />
 </p>
 
 ---
 
-🐍 contribution snake
+## By the Numbers
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bazapodatak/bazapodatak/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/bazapodatak/bazapodatak/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/bazapodatak/bazapodatak/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://img.shields.io/badge/Years%20of%20Coding-8-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects%20Completed-40%2B-success?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lines%20of%20Code-500K%2B-important?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Repos-15-9cf?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-🎥 random dev vibe
+## Currently
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Working%20on-Kernel%20Drivers%20&%20Rust%20CLI%20tools-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-WebAssembly%20&%20System%20Design-brightgreen?style=for-the-badge" />
+</p>
+
+---
+
+## Random Dev GIF
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="coding gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
 </div>
 
 ---
 
-📲 find me
+## Connect
 
 [![TikTok](https://img.shields.io/badge/TikTok-@baza.podatak-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@baza.podatak)
 
