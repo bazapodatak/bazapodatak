@@ -60,12 +60,10 @@ based in Bosnia and Herzegovina
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bazapodatak&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bazapodatak&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazapodatak&layout=compact&theme=radical&hide_border=true&langs_count=8" width="38%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=bazapodatak&theme=radical&no-frame=true&row=1&column=7" width="58%" />
 </p>
 
 ---
@@ -73,7 +71,7 @@ based in Bosnia and Herzegovina
 ## By the Numbers
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Years%20of%20Coding-8-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Years%20of%20Coding-2-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
 
 ## Currently
 
