@@ -1,43 +1,94 @@
-# 👋 Hi, I’m **@baza.podatak**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=🐚+kernel+%7C+full-stack+%7C+low-level+dev;🔥+baza.podatak;💻+from+Bosnia+with+❤️" alt="Typing SVG" />
+  </a>
+</div>
 
-🎯 Data enthusiast & software developer from **🇧🇦 Bosnia and Herzegovina**  
-💡 I love coding across the whole stack – from bare-metal Assembly to high-level Python, and everything in between.
+<br/>
 
----
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
+</div>
 
-## 🛠️ Languages & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+👋 Hey, I’m **@baza.podatak**
+
+🔧 kernel development  
+🌐 full‑stack web engineer  
+📍 Bosnia & Herzegovina 🇧🇦  
+📦 « baza podataka » literally means database — kinda fitting  
+
+---
+
+🛠️ everyday tools & languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bazapodatak&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazapodatak&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## 🌍 Location
+📊 some numbers
 
-📍 **Bosnia and Herzegovina** 🇧🇦
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bazapodatak&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bazapodatak&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazapodatak&layout=compact&theme=radical&hide_border=true" width="38%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bazapodatak&theme=radical&no-frame=true&row=1&column=6" width="55%" />
+</p>
 
 ---
 
-## 📲 Connect with me
+🐍 contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bazapodatak/bazapodatak/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/bazapodatak/bazapodatak/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/bazapodatak/bazapodatak/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+🎥 random dev vibe
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="coding gif" />
+</div>
+
+---
+
+📲 find me
 
 [![TikTok](https://img.shields.io/badge/TikTok-@baza.podatak-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@baza.podatak)
 
----
+<br/>
 
-*⚡ Fun fact: “baza podataka” means “database” in Bosnian – perfect for a data‑driven developer!*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bazapodatak&style=flat-square&color=blueviolet" alt="Profile views" />
+</div>
