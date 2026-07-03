@@ -24,6 +24,10 @@ Full Stack Developer <br><br>Kernel Developer <br><br>Country : Bosnia And Herce
 ---
 
 ![Bosnia](https://img.shields.io/badge/Bosnia%20%26%20Herzegovina-🇧🇦-blue?style=for-the-badge&logo=data:image/gif;base64,...)  
+
+---
+
+
 [![](https://komarev.com/ghpvc/?username=bazapodatak&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
