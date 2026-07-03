@@ -74,12 +74,6 @@ based in Bosnia and Herzegovina
 
 <p align="center">
   <img src="https://img.shields.io/badge/Years%20of%20Coding-8-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Projects%20Completed-40%2B-success?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lines%20of%20Code-500K%2B-important?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Repos-15-9cf?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
 
 ## Currently
 
