@@ -56,16 +56,6 @@ based in Bosnia and Herzegovina
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bazapodatak&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazapodatak&layout=compact&theme=radical&hide_border=true&langs_count=8" width="38%" />
-</p>
-
 ---
 
 ## By the Numbers
@@ -79,14 +69,6 @@ based in Bosnia and Herzegovina
   <img src="https://img.shields.io/badge/Working%20on-Kernel%20Drivers%20&%20Rust%20CLI%20tools-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learning-WebAssembly%20&%20System%20Design-brightgreen?style=for-the-badge" />
 </p>
-
----
-
-## Random Dev GIF
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
-</div>
 
 ---
 
