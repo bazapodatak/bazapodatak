@@ -10,8 +10,8 @@ Full Stack Developer and Kernel Developer based in Bosnia and Herzegovina.
 
 | Project | Description | Stack | Link |
 | --- | --- | --- | --- |
-| Project Name | 64BIT Kernel | Assembly | [Repository](https://github.com/ASM-Kernel) |
-| Project Name | A Snake Kernel Game | Assembly | [Repository](https://github.com/Snake-Kernel) |
+| Project Name | 64BIT Kernel | Assembly | [Repository](https://github.com/bazapodatak/ASM-Kernel) |
+| Project Name | A Snake Kernel Game | Assembly | [Repository](https://github.com/bazapodatak/Snake-Kernel) |
 
 ## Currently Working On
 
