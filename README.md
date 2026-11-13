@@ -1,6 +1,6 @@
 # About Me
 
-Full Stack Developer and Kernel Developer based in Bosnia and Herzegovina.
+Full Stack Developer & Kernel Developer & Web Designer based in Bosnia and Herzegovina.
 
 ## Socials
 
