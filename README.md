@@ -6,19 +6,12 @@ Full Stack Developer and Kernel Developer based in Bosnia and Herzegovina.
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@baza.podatak)
 
-## Random GIF
-
-[View GIF on Pinterest](https://pin.it/Xca8SHath)
-
-<img src="DIRECT_GIF_URL" alt="Random GIF" width="480" />
-
 ## Projects
 
 | Project | Description | Stack | Link |
 | --- | --- | --- | --- |
-| Project Name | Short project description | C, Rust | [Repository](PROJECT_URL) |
-| Project Name | Short project description | TypeScript, Node.js | [Repository](PROJECT_URL) |
-| Project Name | Short project description | Go, SQLite | [Repository](PROJECT_URL) |
+| Project Name | 64BIT Kernel | Assembly | [Repository](https://github.com/ASM-Kernel) |
+| Project Name | A Snake Kernel Game | Assembly | [Repository](https://github.com/Snake-Kernel) |
 
 ## Currently Working On
 
@@ -33,9 +26,6 @@ Full Stack Developer and Kernel Developer based in Bosnia and Herzegovina.
 - Distributed systems and networking
 
 ## Contact
-
-- Email: [EMAIL](mailto:EMAIL)
-- GitHub: [bazapodatak](https://github.com/bazapodatak)
 - TikTok: [@baza.podatak](https://tiktok.com/@baza.podatak)
 
 ## Tech Stack
