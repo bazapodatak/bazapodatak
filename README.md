@@ -1,17 +1,10 @@
 # About Me
 
-Full Stack Developer & Kernel Developer & Web Designer based in Bosnia and Herzegovina.
+Full Stack Developer & Kernel Developer & Web Designer & RE based in Bosnia and Herzegovina
 
 ## Socials
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@baza.podatak)
-
-## Projects
-
-| Project | Description | Stack | Link |
-| --- | --- | --- | --- |
-| Assembly Kernel | 64BIT Kernel | Assembly | [Repository](https://github.com/bazapodatak/ASM-Kernel) |
-| Snake Kernel Game | A Snake Kernel Game | Assembly | [Repository](https://github.com/bazapodatak/Snake-Kernel) |
 
 ## Currently Working On
 
